@@ -1,0 +1,97 @@
+🔹 1. Two Pointers (Fast & Slow)
+Used for cycle detection, middle node, or k-th node problems.
+
+Problems:
+
+✅ Find Middle of Linked List
+
+✅ Detect Cycle in a Linked List (Floyd’s Algorithm)
+
+✅ Find the Start of the Cycle
+
+✅ Linked List Cycle II
+
+✅ Check if Palindrome
+
+🔹 2. Reversal Pattern
+Reverse the entire list or a part of it.
+
+Problems:
+
+✅ Reverse a Linked List
+
+✅ Reverse a Sublist (Between m and n)
+
+✅ Reverse K Nodes in Groups (e.g., LeetCode 25)
+
+✅ Palindrome Linked List (with reverse second half)
+
+🔹 3. Pointer Manipulation (In-Place Rearrangement)
+Manipulate .next pointers for reordering.
+
+Problems:
+
+✅ Reorder List (1st → last → 2nd → 2nd last …)
+
+✅ Odd Even Linked List
+
+✅ Flatten a Multilevel Doubly Linked List
+
+✅ Swap Nodes in Pairs
+
+✅ Reverse Nodes in Even Length Groups
+
+🔹 4. Cycle Detection and Removal
+Detect and remove cycles.
+
+Problems:
+
+✅ Linked List Cycle
+
+✅ Remove Cycle from Linked List
+
+✅ Find Intersection Node of Two Lists (Linked list merge point)
+
+🔹 5. Merge/Sort Linked Lists
+Handle multiple sorted linked lists or sorting operations.
+
+Problems:
+
+✅ Merge Two Sorted Lists
+
+✅ Merge K Sorted Lists
+
+✅ Sort a Linked List (Merge Sort)
+
+✅ Add Two Numbers (Linked list as reversed digits)
+
+🔹 6. Dummy Node Technique
+Use dummy head nodes to simplify edge cases.
+
+Problems:
+
+✅ Remove N-th Node from End
+
+✅ Remove Duplicates from Sorted List
+
+✅ Partition List around value x
+
+🔹 7. Linked List to Stack / Array Conversion
+Use extra data structures for convenience or constraints.
+
+Problems:
+
+✅ Next Greater Node in Linked List
+
+✅ Palindrome Linked List (convert to array or use stack)
+
+✅ Copy List with Random Pointer
+
+🧠 Tips to Master Linked List Problems:
+Practice pointer manipulations on paper or whiteboard.
+
+Always draw out how the .next changes step by step.
+
+Use dummy nodes to simplify boundary cases.
+
+For cycle problems, Floyd's algorithm is your best friend.
