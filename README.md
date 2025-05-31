@@ -1,6 +1,5 @@
 # Linked-List-CPP
 
-
 LeetCode Easy Linked List Problems
 LeetCode offers a variety of linked list problems that are ideal for beginners. Here are some notable ones:
 
